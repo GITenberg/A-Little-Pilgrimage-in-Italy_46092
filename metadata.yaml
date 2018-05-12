@@ -1,0 +1,41 @@
+_repo: A-Little-Pilgrimage-in-Italy_46092
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Makino, Yoshio
+    aliases:
+    - 牧野義雄
+    - Markino, Yoshio
+    - Markino, Heiji
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '43293'
+    url: http://www.gutenberg.org/2009/agents/43293
+covers:
+- cover_type: archival
+  image_path: 46092-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Olave M. (Olave Muriel)
+    gutenberg_agent_id: '43604'
+    url: http://www.gutenberg.org/2009/agents/43604
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+tableOfContents: 'Arezzo -- Cortona -- Perugia -- Todi -- Siena and the Palio -- San
+  Gimignano delle Belle Torri -- Monte Oliveto Maggiore -- Chiusi -- Hannibal''s Thrasymene
+  -- Assisi -- Gubbio -- Ancona -- Loreto -- Ravenna -- The Republic of San Marino
+  -- Urbino -- Foligno -- Clitumnus -- Spoleto -- The Falls of Terni -- Narni -- Orvieto:
+  The City of Woe -- Viterbo -- Rome.'
+title: A Little Pilgrimage in Italy
+url: http://www.gutenberg.org/ebooks/46092
